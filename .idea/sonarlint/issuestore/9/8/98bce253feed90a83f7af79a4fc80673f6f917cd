@@ -1,0 +1,5 @@
+
+squid:UselessImportCheck"ORemove this unused import 'es.mindata.fferreiro.component.ExampleWebComponent'.(ı¹ê¡ùÿÿÿÿ8Çû‘ÎÜ-
+psquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ8À’ÚÖÜ-
+‰"squid:ClassVariableVisibilityCheck"OMake url a static final constant or non-public and provide accessors if needed.(ºÙ‚Øıÿÿÿÿ8áşÔÍÜ-
+Dsquid:S1068"'Remove this unused "log" private field.(ÿıÊ)8áşÔÍÜ-
